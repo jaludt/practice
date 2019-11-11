@@ -1,0 +1,2 @@
+CREATE DATABASE practice,
+CREATE TABLE (Bike ID INT, Brand varchar (100), Model varchar (100), Tire Size INT
